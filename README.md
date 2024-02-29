@@ -29,13 +29,10 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 </p>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=javascript)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=HTML5)
-![PHP](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Laravel](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=jest)
 
 
 
