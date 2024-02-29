@@ -3,10 +3,10 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://i.ibb.co/5Y4qScF/github-linkedin.png" width="80" alt="LinkedIn Badge"/>
+    <img src="https://i.ibb.co/5Y4qScF/github-linkedin.png" width="120" alt="LinkedIn Badge"/>
   </a>
   <a href="your-instagram-URL">
-    <img src="https://i.ibb.co/61PCvFy/github-instagram.png" width="80" alt="Instagram Badge"/>
+    <img src="https://i.ibb.co/61PCvFy/github-instagram.png" width="120" alt="Instagram Badge"/>
   </a>
   <a href="your-email-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
