@@ -13,7 +13,7 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="600px" max-width="600px" width="600px" align="right" />
+<img style="margin-right:20px; margin-top: -20px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="600px" max-width="600px" width="600px" align="right" />
 
 <p>
   Hello guys, my name is Mateus Ventura, and I am a Full Stack Developer with 5 years of experience and solid knowledge in React.js, Node, and Laravel.
