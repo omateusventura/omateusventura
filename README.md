@@ -4,10 +4,10 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 <div id="badges">
   <a href="https://www.linkedin.com/in/omateusventura">
     <img src="https://i.ibb.co/LRgwWY8/github-linkedin.png" width="150" alt="LinkedIn Badge"/>
-  </a>
+  </a> &nbsp
   <a href="https://www.instagram.com/omateusventura/">
     <img src="https://i.ibb.co/ww4cTpz/github-instagram.png" width="150" alt="Instagram Badge"/>
-  </a>
+  </a> &nbsp
   <a href="#">
     <img src="https://i.ibb.co/jW6Mkqm/email.png" width="180" alt="E-mail Badge"/>
   </a>
