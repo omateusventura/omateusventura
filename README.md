@@ -9,7 +9,7 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
     <img src="https://i.ibb.co/RYmxwzV/github-instagram.png" width="160" alt="Instagram Badge"/>
   </a>
   <a href="#">
-    <img src="https://i.ibb.co/J7TsC5M/email.png" width="220" alt="E-mail Badge"/>
+    <img src="https://i.ibb.co/G5BshBS/email.png" width="210" alt="E-mail Badge"/>
   </a>
 </div>
 
