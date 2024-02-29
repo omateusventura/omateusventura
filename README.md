@@ -17,7 +17,7 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 
 <p>Hello everyone,</p> 
 
-<p>My name is Mateus Ventura, Full Stack Developer with 5 years of solid experience and knowledge in React.js, Node, C# and Laravel.</p> 
+<p>My name is Mateus Ventura, Full Stack Developer with 5 years of solid experience and knowledge in React.js, Node.js, C# and Laravel.</p> 
 
 <p>I consider myself a technology enthusiast, proceeding passionate to explore the digital universe with a curious mind and tireless determination, always seeking new ways to harness the power of technology creating innovative solutions and inspire positive changes.</p> 
 
