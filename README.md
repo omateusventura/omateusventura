@@ -20,14 +20,13 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 </p>
 
 <p>
-Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
+  I am a technology enthusiast passionate about exploring the digital universe. With a curious mind and tireless determination, I am always seeking new ways to harness the   
+  power of technology to create innovative solutions and inspire positive change
 </p>
 
 <p>
-Hello guys, my name is Mateus Ventura, and I am a Full Stack Developer with 5 years of experience and solid knowledge in React.js, Node, and Laravel.
-</p>
-
-<p>
 Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
 </p>
+
+
 
