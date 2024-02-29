@@ -21,6 +21,10 @@ Hello guys, my name is Mateus Ventura, and I am a Full Stack Developer with 5 ye
 
 Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
 
+Hello guys, my name is Mateus Ventura, and I am a Full Stack Developer with 5 years of experience and solid knowledge in React.js, Node, and Laravel.
+
+Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
+
 <!--
 **omateusventura/omateusventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
