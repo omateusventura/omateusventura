@@ -13,9 +13,10 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
   </a>
 </div>
 
-Desenvolvedor Full Stack com 5 anos de experiência e um conhecimento sólido em React.js, Node, PHP, e Laravel. Estou comprometido em criar aplicações web inovadoras e de alta qualidade que solucionem problemas e proporcionem experiências únicas aos usuários. 
 
-Atualmente estou cusando uma pós graduação em Engenharia de Software para aprimorar meus conhecimentos, em busca de contínua evolução e aprendizado.
+Full Stack Developer with 5 years of experience and solid knowledge in React.js, Node, and Laravel. I am committed to creating innovative and high-quality web applications that solve problems and provide unique user experiences 
+
+Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
 
 <!--
 **omateusventura/omateusventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
