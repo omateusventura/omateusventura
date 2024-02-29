@@ -30,7 +30,7 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=1572B6)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 
