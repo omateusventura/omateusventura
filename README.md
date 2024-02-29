@@ -15,18 +15,14 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" />
 
-<p>
-  Hello guys, my name is Mateus Ventura, and I am a Full Stack Developer with 5 years of experience and solid knowledge in React.js, Node, and Laravel.
-</p>
+<p>Hello everyone,</p> 
 
-<p>
-  I am a technology enthusiast passionate about exploring the digital universe. With a curious mind and tireless determination, I am always seeking new ways to harness the   
-  power of technology to create innovative solutions and inspire positive change
-</p>
+<p>My name is Mateus Ventura, Full Stack Developer with 5 years of solid experience and knowledge in React.js, Node, C# and Laravel.</p> 
 
-<p>
-  Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
-</p>
+<p>I consider myself a technology enthusiast, proceeding passionate to explore the digital universe with a curious mind and tireless determination, always seeking new ways to harness the power of technology creating innovative solutions and inspire positive changes.</p> 
+
+<p>Currently, I'm studying  postgraduate Software Engineering to extend my graduation and enhance my skills, seeking continuous growth, knowledge and learning capacity.</p> 
+
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
