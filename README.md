@@ -25,8 +25,14 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 </p>
 
 <p>
-Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
+  Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
 </p>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
