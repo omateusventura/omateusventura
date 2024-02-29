@@ -3,7 +3,7 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://i.ibb.co/5Y4qScF/github-linkedin.png" width="150" alt="LinkedIn Badge"/>
+    <img src="https://i.ibb.co/dJdstwc/github-linkedin.png" width="140" alt="LinkedIn Badge"/>
   </a>
   <a href="your-instagram-URL">
     <img src="https://i.ibb.co/61PCvFy/github-instagram.png" width="150" alt="Instagram Badge"/>
