@@ -12,7 +12,9 @@ Full Stack Developer at [Grupo Domon](https://www.grupodomon.com.br)
     <img src="https://i.ibb.co/J7TsC5M/email.png" width="220" alt="E-mail Badge"/>
   </a>
 </div>
+
 #
+
 Full Stack Developer with 5 years of experience and solid knowledge in React.js, Node, and Laravel. I am committed to creating innovative and high-quality web applications that solve problems and provide unique user experiences 
 
 Currently, I am pursuing a postgraduate degree in Software Engineering to enhance my skills, seeking continuous growth and learning.
