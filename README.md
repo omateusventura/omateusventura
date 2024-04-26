@@ -1,5 +1,5 @@
 # About me
-Full Stack Developer at [Multpex](https://www.multpex.com.br)
+Back-end Developer at [Multpex](https://www.multpex.com.br)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/omateusventura">
